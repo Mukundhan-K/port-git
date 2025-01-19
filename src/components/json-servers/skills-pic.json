@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Logo designing",
+        "img" : "skill-logo.jpg"
+    },
+    {
+        "name" : "youtube videos",
+        "img" : "skill-youtube.jpg"
+    },
+    {
+        "name" : "photoshop designing",
+        "img" : "skill-photo.jpg"
+    },
+    {
+        "name" : "reel editing",
+        "img" : "skill-reel.jpg"
+    },
+    {
+        "name" : "web designing",
+        "img" : "project-5.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "photoshop",
+        "dis" : "Transform your business.",
+        "image"  :  "ps.png"
+    },
+    {
+        "id" : 2,
+        "name" : "photoshop Ae",
+        "dis" : "Transform your business.",
+        "image"  : "ae.png"
+    },
+    {
+        "id" : 3,
+        "name" : "photoshop AI",
+        "dis" : "Transform your business.",
+        "image"  : "ai.png"
+    },
+    {
+        "id" : 4,
+        "name" : "canva",
+        "dis" : "Transform your business.",
+        "image"  : "canva-icon.png"
+    },
+    {
+        "id" : 5,
+        "name" : "capcut",
+        "dis" : "Transform your business.",
+        "image"  : "capcut.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "inshot",
+        "dis" : "Transform your business.",
+        "image"  : "inshot.jpg"
+    }
+]
